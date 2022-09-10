@@ -117,7 +117,7 @@ body{ /*дані з Google Fonts, розділ CSS rules to specify families*/
 .footer_ul{
     display: flex; /*елементи списку в рядок*/
     gap: 74px; /*відстань між елементами списку*/
-
+}
 
 .footer_link{
     font-weight: 700;
